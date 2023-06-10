@@ -1,0 +1,55 @@
+.Maindiv {
+  border: 2px solid rgb(170, 170, 172);
+  position: fixed;
+  width: 22%;
+  height: auto;
+  top: 25%;
+  left: 39%;
+  border-radius: 3px;
+}
+
+.checkboxDiv {
+  display: none;
+  border: 0px solid red;
+  position: fixed;
+  max-height: 40%;
+  width: 20%;
+  top: 30%;
+  left: 40%;
+  text-align: left;
+  overflow-y: auto;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  border-radius: 5px;
+}
+
+.Maindiv:hover > .checkboxDiv {
+  display: block;
+}
+
+.Maindiv:hover {
+  height: 50%;
+}
+
+.CheckboxItem {
+  width: 18px;
+  height: 18px;
+  color: grey;
+}
+
+.LabelItem {
+  font-size: 16px;
+  margin-left: 10px;
+}
+.wrapDiv {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  border: 0px solid green;
+  margin-bottom: 8px;
+  margin-top: 5px;
+}
+.InputElem {
+  border: none;
+  border-bottom: 1px solid grey;
+  width: 90%;
+}
