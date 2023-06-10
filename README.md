@@ -8,9 +8,12 @@ This is an 1st round assignment of Skytel Teleservices.
 
 - `val --> Which is an array of preseclected values`
 - `readOnly ---> Which is boolean value`
-  ⭕The Input tag has a search functionality with respect countries listed:
-  ⭕You can select or unselect the values:
-  ⭕readOnly value is responsible for disable and enable of all the checkboxes:
+
+⭕The Input tag has a search functionality with respect countries listed.
+
+⭕You can select or unselect the values.
+
+⭕readOnly value is responsible for disable and enable of all the checkboxes.
 
 ---
 
